@@ -1,4 +1,4 @@
-2.    
+2). 
     
     b). Omogočili smo pin: PA8 poleg pina se izpiše TIM1_CH1.
 
@@ -8,10 +8,10 @@
 
     f). To pomeni da ima Duty cycle 50% vrednost.
 
-3.  
+3).
     
     b). sConfigOC.Pulse = 50;
 
-4.  
+4).
     
     c). ConfigOC.Pulse = 25;
