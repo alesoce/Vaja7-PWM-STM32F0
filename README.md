@@ -7,6 +7,6 @@ e). Takt časovnika znaša: 10 kHz.
 f). To pomeni da ima Duty cycle 50% vrednost.
 
 
-(3.)  b). sConfigOC.Pulse = 50;
+3.  b). sConfigOC.Pulse = 50;
 
-(4.)  c). ConfigOC.Pulse = 25;
+4.  c). ConfigOC.Pulse = 25;
